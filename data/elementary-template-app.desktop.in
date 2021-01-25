@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Template
+Comment=An app template
+Categories=Utility;
+Exec=com.github.pongloongyeat.elementary-template-app
+Icon=com.github.pongloongyeat.elementary-template-app
+Terminal=false
+Type=Application
+Keywords=Template;
